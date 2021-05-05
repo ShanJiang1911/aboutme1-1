@@ -7,10 +7,13 @@ Teach us more about you! Build out an “About Me” webpage that quizzes the us
 ### Author: Ayrat Gimranov
 
 ### Links and Resources
-* [submission PR]()
+
+* Instructor Sara Russet's sample code 
 * Duckett, J. (2011). *HTML & CSS: Design and build websites.* Indianapolis, IN: Wiley  
 * Duckett, J. (2014). *JavaScript & jQuery: Interative front-end development.* Indianapolis, IN: Wiley  
 
 ### Reflections and Comments
-* Consider including the answers to your daily journal and submission questions here
-* This is also a good place to reflect on the tools and resources used and learned
+
+* Styling CSS from the scratch the first time is a time consuming experience, as you don't even know where to start and propertyies and values to use.  
+
+* Glad I could peek into the instructor Sara's demo written during lecture. Gives me a basic idea. And I will finish the rest by experimenting.

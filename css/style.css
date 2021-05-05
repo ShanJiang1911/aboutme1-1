@@ -1,0 +1,40 @@
+body {
+  box-sizing: border-box;
+  background-color: hsl(190, 100%, 75%);
+  max-width: 1000px;
+}
+
+header {
+  background: url(https://cdn.pixabay.com/photo/2015/09/11/08/48/earth-935468_1280.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 90vw;
+  max-width: 1000px;
+  color: mintcream;
+  font-family: cursive;
+  font-size: 2em;
+  text-align: right;
+  padding: 1em;
+}
+
+section {
+  padding: 0.6em;
+  font-size: 90%;
+  margin: 10px;
+  border: 2px solid darkblue; 
+  width: 360px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+ul {
+  list-style-position: inside;
+  list-style-type: square;
+}
