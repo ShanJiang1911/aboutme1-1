@@ -6,6 +6,8 @@ body {
 }
 
 header {
+  position: sticky;
+  top: 0%;
   background: url(https://cdn.pixabay.com/photo/2015/09/11/08/48/earth-935468_1280.jpg);
   background-color: black;
   background-repeat: no-repeat;
@@ -23,25 +25,33 @@ header {
   
 }
 
-article {
-  max-width: 960px;
-  margin: auto;
-  display: block;
-}
 
-section {
+article {
   padding: 0.6em;
   font-size: 1.5;
   margin: 10px auto; 
   border: 2px solid darkblue;
   border-radius: 1em; 
   max-width: 960px;
-  background-color: rgb(221, 225, 230);
+  background-color: rgb(233, 236, 240);
+}
+
+#hello {
+  max-width: 960px;
+  margin: auto;
+  display: block;
+}
+
+img {
+  width: 100%;
 }
 
 h1 {
   font-size: 3em;
   padding: 1em;
+  text-align: center;
+  font-weight: bold;
+
 }
 
 h2 {
@@ -80,3 +90,14 @@ ol {
   list-style-position: inside ;
   line-height: 1.5em;
   }
+
+footer {
+  clear: both;
+ 
+  max-width: 960px;
+  background-color: black;
+  color: antiquewhite;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
